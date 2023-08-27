@@ -1,12 +1,38 @@
-## Hi there 👋
 
-<!--
+# 🍚  하루 한 톨  🍚
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+일기쓰기와 쌀 기부를 통해
+대학생들이 시간을 투자하여 쉽게 사회에 공헌할 수 있는 서비스를 제공합니다.
+
+![Alt text](image-2.png)
+
++ 일기를 쓰면 쌀을 하루에 최대 한 톨 얻을 수 있는데요, 이렇게 모은 쌀을 다른 사람들과 함께 기부 할 수 있는 프로그램 입니다.
++ 쌀이 일정량 모이면 쌀을 보낸 사람들의 이름으로 기부를 합니다. 
+</br></br>( 본 프로젝트는 제 4회 대학생 나눔봉사 해커톤 수상작으로, 실제 서비스를 제공하지 않습니다. )
+
+
+## 📌 프로그램 목표
+![Alt text](image-4.png)
+![Alt text](image-6.png)
+
+## 📌 프로그램 내용
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+
+## 📱 앱 실행화면
+![](image-12.png)
+![Alt text](image-13.png)
+* ✍️ 일기쓰기 
+  * 오늘 느꼈던 감정이나 있었던 일들을 기록하고 쌀을 하나 얻습니다.
+* 🥄 한 달 한 숟  
+  * 한 달 동안 느꼈던 감정들을 분석해서 사용자에게 위로의 말이나 격려의 말을 보여줍니다.
+  * 한 달 동안 모은 쌀을 🧺 공용 바구니에 넣을 수 있습니다.
+* 🧺 공용 바구니
+  * 사람들이 공용 바구니에 모은 쌀을 확인할 수 있습니다 ex) 1,470 / 1,500
+
+
+
+
+|✍️ 일기쓰기 | 🥄 한 달 한 숟|
+|:------:|:------:|
